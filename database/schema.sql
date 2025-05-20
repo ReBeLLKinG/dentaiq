@@ -1,0 +1,2 @@
+-- SQL schema
+-- You can paste your CREATE TABLE scripts here
